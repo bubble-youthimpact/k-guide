@@ -1,0 +1,21 @@
+{
+  "name": "K-Guide",
+  "short_name": "K-Guide",
+  "description": "K-Guide helps foreigners in Korea use Korean digital government services, with step-by-step guides for visas and immigration on HiKorea, digital certificates, identity verification, banking and taxes, plus free travel guides. Available in 10 languages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4483",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
